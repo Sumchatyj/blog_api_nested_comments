@@ -22,7 +22,7 @@ API documentation available at:
 
 For correct operation of swagger statics on nonlocal hosts execute this command:
 
-$ python manage.py collectstatic`
+`$ python manage.py collectstatic`
 
 ## What you can do
 
