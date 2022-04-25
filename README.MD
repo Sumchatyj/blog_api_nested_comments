@@ -20,6 +20,10 @@ API documentation available at:
 
 <http://127.0.0.1:8000/swagger/>
 
+For correct operation of swagger statics on nonlocal hosts execute this command:
+
+$ python manage.py collectstatic`
+
 ## What you can do
 
 Create posts, add comments including nested comments.
