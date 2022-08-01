@@ -11,10 +11,10 @@ You can create posts, add comments including nested comments.
 
 ### Dependencies
 
-*python 3.7
-*django 4.0.4
-*djangorestframework 3.13.1
-*django_mptt 0.13.4
+* python 3.7
+* django 4.0.4
+* djangorestframework 3.13.1
+* django_mptt 0.13.4
 
 ### Installing
 
